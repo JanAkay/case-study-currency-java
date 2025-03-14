@@ -1,0 +1,6 @@
+com\profeed\dto\PagedResponse.class
+com\profeed\model\ExchangeRate.class
+com\profeed\ProfeedApplication.class
+com\profeed\controller\ExchangeRateController.class
+com\profeed\repository\ExchangeRateRepository.class
+com\profeed\service\ExchangeRateService.class
